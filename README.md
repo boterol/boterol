@@ -4,7 +4,7 @@ I'm a **Software Engineer** passionate about **AI, Data Science, Backend Develop
 
 ### 💻 Tech Stack
 - **Languages:** Python, Java (Spring Boot), JavaScript (Nest.js)  
-- **AI & Data Science:** TensorFlow, PyTorch, Keras, Scikit-learn, Pydicom, Pandas, NumPy, OpenCV, Hugging Face, Dask, FastAPI  
+- **AI & Data Science:** TensorFlow, PyTorch, Keras, Scikit-learn, Pydicom
 - **Databases:** PostgreSQL, MongoDB, Oracle 
 - **DevOps:** Docker, Jenkins, Grafana, Dokku  
 
