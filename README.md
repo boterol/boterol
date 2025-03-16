@@ -9,7 +9,7 @@ I'm a **Software Engineer** passionate about **AI, Data Science, Backend Develop
 - **DevOps:** Docker, Jenkins, Grafana, Dokku  
 
 ### 🔬 Projects I'm Working On  
-- 🏗️ **Microservices Example Project** – Exploring distributed architectures with rabbitMQ, keycloack and 
+- 🏗️ **Microservices Example Project** – Exploring distributed architectures with Kafka, rabbitMQ, and keycloack 
 - 🔍 **Automatic Clustering Project** – Automating unsupervised learning processes for common dataset structures    
 
 ### 📫 Connect with Me
