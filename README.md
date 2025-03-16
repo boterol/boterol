@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there! I'm Luis 👋
 
-<!--
-**boterol/boterol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineer** passionate about **AI, Data Science, Backend Development and operations**. I build public projects sometimes 🚀
 
-Here are some ideas to get you started:
+### 💻 Tech Stack
+- **Languages:** Python, Java (Spring Boot), JavaScript (Nest.js)  
+- **AI & Data Science:** TensorFlow, PyTorch, Keras, Scikit-learn, Pydicom, Pandas, NumPy, OpenCV, Hugging Face, Dask, FastAPI  
+- **Databases:** PostgreSQL, MongoDB  
+- **DevOps:** Docker, Jenkins, Grafana, Dokku  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Projects I'm Working On  
+- 🏗️ **Microservices Example Project** – Exploring distributed architectures  
+- 🔍 **Automatic Clustering Project** – Automating common unsupervised learning processes    
+
+### 📫 Connect with Me
+📧 [Luis.botero.work@gmail.com](mailto:Luis.botero.work@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/luis-fernando-botero/)  
+🖥️ [GitHub](https://github.com/yourgithub)  
+
+---
+⚡ Fun fact: I love problem-solving, AI research, and system design!
