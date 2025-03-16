@@ -1,6 +1,6 @@
 # Hi there! I'm Luis 👋
 
-I'm a **Software Engineer** passionate about **AI, Data Science, Backend Development and operations**. I build public projects sometimes 🚀
+I'm a **Software Systems Engineer** and I build public projects sometimes 🚀
 
 ### 💻 Tech Stack
 - **Languages:** Python, Java (Spring Boot), JavaScript (Nest.js)  
@@ -17,5 +17,4 @@ I'm a **Software Engineer** passionate about **AI, Data Science, Backend Develop
 🔗 [LinkedIn](https://www.linkedin.com/in/luis-fernando-botero/)  
 🖥️ [GitHub](https://github.com/yourgithub)  
 
----
-⚡ Fact: I love problem-solving, AI, math and physics.
+
