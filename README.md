@@ -9,8 +9,8 @@ I'm a **Software Engineer** passionate about **AI, Data Science, Backend Develop
 - **DevOps:** Docker, Jenkins, Grafana, Dokku  
 
 ### 🔬 Projects I'm Working On  
-- 🏗️ **Microservices Example Project** – Exploring distributed architectures  
-- 🔍 **Automatic Clustering Project** – Automating common unsupervised learning processes    
+- 🏗️ **Microservices Example Project** – Exploring distributed architectures with rabbitMQ, keycloack and 
+- 🔍 **Automatic Clustering Project** – Automating unsupervised learning processes for common dataset structures    
 
 ### 📫 Connect with Me
 📧 [Luis.botero.work@gmail.com](mailto:Luis.botero.work@gmail.com)  
