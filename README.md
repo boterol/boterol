@@ -1,6 +1,6 @@
 # Hi there! I'm Luis 👋
 
-I'm a **Software Systems Engineer** and I build public projects sometimes 🚀
+I'm a **Software Systems Engineer** who occasionally shares public projects I'm involved in.
 
 ### 💻 Tech Stack
 - **Languages:** Python, Java (Spring Boot), JavaScript (Nest.js)  
