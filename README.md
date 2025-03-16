@@ -18,4 +18,4 @@ I'm a **Software Engineer** passionate about **AI, Data Science, Backend Develop
 🖥️ [GitHub](https://github.com/yourgithub)  
 
 ---
-⚡ Fun fact: I love problem-solving, AI research, and system design!
+⚡ Fact: I love problem-solving, AI, math and physics.
