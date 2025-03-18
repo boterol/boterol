@@ -8,7 +8,7 @@ I'm a **Software Systems Engineer** who occasionally shares public projects I'm 
 - **Databases:** PostgreSQL, MongoDB, Oracle 
 - **DevOps:** Docker, Jenkins, Grafana, Dokku  
 
-### 🔬 Projects I'm Working On  
+### 🔬 Public Projects I'm Working On  
 - **Microservices Example Project** – Exploring distributed architectures with Kafka, rabbitMQ, and keycloack 
 - **Automatic Clustering Project** – Automating unsupervised learning processes for common dataset structures    
 
