@@ -1,4 +1,4 @@
-# Hi there! I'm Luis 👋
+# Hello, I'm Luis 👋
 
 I'm a **Software Systems Engineer** who occasionally shares public projects I'm involved in.
 
