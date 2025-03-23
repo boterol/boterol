@@ -10,7 +10,7 @@ I'm a **Software Systems Engineer** who occasionally shares public projects I'm 
 
 ### 🔬 Public Projects I'm Working On  
 - **Microservices Example Project** – Exploring distributed architectures with Kafka, rabbitMQ, keycloack, feign and swagger.    
-- **Automatic Clustering Project** – Automating unsupervised learning processes for common dataset structures (not public yest)    
+- **Automatic Clustering Project** – Automating unsupervised learning processes for common dataset structures (not public yet)    
 
 ### 📫 Connect with Me
 📧 [Luis.botero.work@gmail.com](mailto:Luis.botero.work@gmail.com)  
