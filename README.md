@@ -1,6 +1,6 @@
 # Hello, I'm Luis 
 
-I'm a **Software Systems Engineer** who occasionally shares public projects I'm involved in.
+I'm a **Software Systems Engineer** who occasionally shares public projects I'm involved in that can be useful for other people.
 
 ### 💻 Tech Stack
 - **Languages:** Python, Java (Spring Boot), JavaScript (Nest.js)  
@@ -9,8 +9,8 @@ I'm a **Software Systems Engineer** who occasionally shares public projects I'm 
 - **DevOps:** Docker, Jenkins, Grafana, Dokku  
 
 ### 🔬 Public Projects I'm Working On  
-- **Microservices Example Project** – Exploring distributed architectures with Kafka, rabbitMQ, and keycloack 
-- **Automatic Clustering Project** – Automating unsupervised learning processes for common dataset structures    
+- **Microservices Example Project** – Exploring distributed architectures with Kafka, rabbitMQ, keycloack, feign and swagger.    
+- **Automatic Clustering Project** – Automating unsupervised learning processes for common dataset structures (not public yest)    
 
 ### 📫 Connect with Me
 📧 [Luis.botero.work@gmail.com](mailto:Luis.botero.work@gmail.com)  
