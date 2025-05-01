@@ -10,7 +10,6 @@ I'm a **Software Systems Engineer** who occasionally shares public projects I'm 
 
 ### 🔬 Public Projects I'm Working On  
 - **Microservices Example Project** – Exploring distributed architectures Leveraging proven, production-grade technologies such as Kafka, RabbitMQ, Keycloak, and more within Spring Boot to build scalable and secure distributed systems.     
-- **Automatic Clustering Project** – Automating unsupervised learning processes for common dataset structures (not public yet)
 - **Graduation Project:** - ML pipeline for automated classification of intra-axial brain tumors (not public yet)
 
 ### 📫 Connect with Me
