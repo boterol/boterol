@@ -1,5 +1,7 @@
 I write code. Sometimes it even compiles.
 
+#Profesional Experiences
+
 Currently gaslighting pandas into cooperating.
 
 Optimizing performance by lowering expectations.
