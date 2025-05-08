@@ -1,20 +1,16 @@
-# Hello, I'm Luis 
+I write code. Sometimes it even compiles.
 
-I'm a **Software Systems Engineer** who occasionally shares public projects I'm involved in, which may be useful to others.
+Currently gaslighting pandas into cooperating.
 
-### 💻 Tech Stack
-- **Languages:** Python, Java (Spring Boot), JavaScript (Nest.js)  
-- **AI & Data Science:** TensorFlow, PyTorch, Keras, Scikit-learn, Pydicom
-- **Databases:** PostgreSQL, MongoDB, Oracle 
-- **DevOps:** Docker, Jenkins, Grafana, Dokku  
+Optimizing performance by lowering expectations.
 
-### 🔬 Public Projects I'm Working On  
-- **Microservices Example Project** – Exploring distributed architectures Leveraging proven, production-grade technologies such as Kafka, RabbitMQ, Keycloak, and more within Spring Boot to build scalable and secure distributed systems.     
-- **Graduation Project:** - ML pipeline for automated classification of intra-axial brain tumors (not public yet)
+Current hobbies include waiting for Docker builds, retraining models that forgot how to think, and wondering if the issue is the model or just me again.
 
-### 📫 Connect with Me
-📧 [Luis.botero.work@gmail.com](mailto:Luis.botero.work@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/luis-fernando-botero/)  
-🖥️ [GitHub](https://github.com/yourgithub)  
+SQL enthusiast until the 47th JOIN.
 
+Once fought Jenkins in production and barely survived.
+
+Fluent in Spanish, English, French, and chatGPT.
+
+Experienced Pizza delivery man. 
 
