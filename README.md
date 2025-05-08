@@ -12,5 +12,5 @@ Once fought Jenkins in production and barely survived.
 
 Fluent in Spanish, English, French, and chatGPT.
 
-Experienced Pizza delivery man. 
+
 
