@@ -1,4 +1,4 @@
-I write code. Sometimes it even compiles.
+
 
 # Experience:
 
