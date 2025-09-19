@@ -1,6 +1,3 @@
-
-Currently gaslighting pandas into cooperating.
-
 Optimizing performance by lowering expectations.
 
 Graph enjoyer.
